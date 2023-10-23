@@ -12,6 +12,8 @@ We enable financial services to innovate, surprise and excite.
 
 We are always looking for talented people to join our team. If you are interested in working with us, please head on over to [https://jobs.stacc.com/](jobs.stacc.com).
 
+---
+
 <div style="display: flex; gap: 20px;">
   <a href="https://stacc.com/"><img src="https://stacc.com/favicon-32x32.png" alt="Stacc website" width="32" /></a>
  <a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company"><img src="https://github.com/stacc/.github/blob/main/linkedin.png" width="32" /></a>
