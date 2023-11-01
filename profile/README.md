@@ -12,6 +12,10 @@ We enable financial services to innovate, surprise and excite.
 
 We are always looking for talented people to join our team. If you are interested in working with us, please head on over to [https://jobs.stacc.com/](jobs.stacc.com).
 
+## Useful links
+
+- [Join the Stacc organization on Github](https://github.com/orgs/stacc/sso)
+
 ---
 
 <div style="display: flex; gap: 20px;">
