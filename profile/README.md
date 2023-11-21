@@ -19,7 +19,7 @@ We are always looking for talented people to join our team. If you are intereste
 ---
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://stacc.com/" style="width: 20px;" ><img src="https://stacc.com/favicon-32x32.png" alt="Stacc website" width="32" /></a>
+  <a href="https://stacc.com/" style="width: 20px;" ><img src="https://framerusercontent.com/images/tsdoEOW1G9Qyuhy9CMXrh1VFw.svg" alt="Stacc website" width="32" /></a>
  <a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/linkedin.png" width="32" /></a>
  <a href="https://twitter.com/stacctweets" style="width: 20px;"><img style="background: black;" src="https://github.com/stacc/.github/blob/main/x.png" width="32"/></a>
  <a href="https://www.facebook.com/staccgroup" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/fb.png" width="32" /></a>
