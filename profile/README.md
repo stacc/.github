@@ -10,7 +10,7 @@ We enable financial services to innovate, surprise and excite.
 
 ## Do you feel like this suits you?
 
-We are always looking for talented people to join our team. If you are interested in working with us, please head on over to [https://jobs.stacc.com/](jobs.stacc.com).
+We are always looking for talented people to join our team. If you are interested in working with us, please head on over to [jobs.stacc.com](https://jobs.stacc.com/).
 
 ## Useful links
 
@@ -20,9 +20,8 @@ We are always looking for talented people to join our team. If you are intereste
 
 <div style="display: flex; gap: 20px;">
   <a href="https://stacc.com/" style="width: 20px;" ><img src="https://framerusercontent.com/images/tsdoEOW1G9Qyuhy9CMXrh1VFw.svg" alt="Stacc website" width="32" /></a>
- <a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/linkedin.png" width="32" /></a>
- <a href="https://twitter.com/stacctweets" style="width: 20px;"><img style="background: black;" src="https://github.com/stacc/.github/blob/main/x.png" width="32"/></a>
- <a href="https://www.facebook.com/staccgroup" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/fb.png" width="32" /></a>
- <a href="https://www.instagram.com/stacc_fintech/" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/ig.png" width="32" /></a>
-
-  </div>
+  <a href="https://www.linkedin.com/company/stacc---the-fintech-platform-company" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/linkedin.png" width="32" /></a>
+  <a href="https://twitter.com/stacctweets" style="width: 20px;"><img style="background: black;" src="https://github.com/stacc/.github/blob/main/x.png" width="32"/></a>
+  <a href="https://www.facebook.com/staccgroup" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/fb.png" width="32" /></a>
+  <a href="https://www.instagram.com/stacc_fintech/" style="width: 20px;"><img src="https://github.com/stacc/.github/blob/main/ig.png" width="32" /></a>
+</div>
